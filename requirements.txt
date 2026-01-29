@@ -1,6 +1,0 @@
-flask
-gunicorn
-flask-cors
-nordigen
-python-dotenv
-firebase-admin

@@ -1,3 +1,9 @@
+.venv/
+
 .env
+
+*.pyc
+__pycache__/
+
 google-cloud-sdk
 firebase-key.json

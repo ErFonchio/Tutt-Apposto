@@ -1,0 +1,9 @@
+Flask~=3.0
+gunicorn~=23.0
+Werkzeug~=3.0
+flask-cors
+nordigen
+python-dotenv
+firebase-admin
+flask-jwt-extended
+datetime
